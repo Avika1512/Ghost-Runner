@@ -1,1 +1,1 @@
-# Ghost-Runner
+# GhostRunner
